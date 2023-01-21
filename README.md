@@ -8,7 +8,11 @@ I am a Production/Graphic Designer working on transitioning my career to full-ti
 
 [<img src='https://raw.githubusercontent.com/chrisMartinezDesign/chrisMartinezDesign/main/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/chrisMartinezDesign/) 
 
-# Statistics
+# Development Stack
+
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
+
+# Statistics 📈
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chrisMartinezDesign)](https://github.com/anuraghazra/github-readme-stats)
 
