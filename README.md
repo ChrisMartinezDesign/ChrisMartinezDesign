@@ -6,7 +6,7 @@ I am a Production/Graphic Designer working on transitioning my career to full-ti
 
 # Contact
 
-<a href=”https://www.linkedin.com/in/chrismartinezdesign/"><img align=”left” src=”https://raw.githubusercontent.com/chrisMartinezDesign/chrisMartinezDesign/main/linkedin.svg" alt=”icon | LinkedIn” width=”21px”/></a>
+[<a href=”https://www.linkedin.com/in/chrismartinezdesign/"><img align=”left” src=”https://raw.githubusercontent.com/chrisMartinezDesign/chrisMartinezDesign/main/linkedin.svg" alt=”icon | LinkedIn” width=”21px”/></a>]
 
 # Statistics
 
