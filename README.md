@@ -10,7 +10,7 @@ I am a Production/Graphic Designer working on transitioning my career to full-ti
 [<img src='https://raw.githubusercontent.com/chrisMartinezDesign/chrisMartinezDesign/main/personal-logo.png' alt='website' height='40'>](https://chrismartinezportfolio.netlify.app/)
 [<img src='https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white' alt='website' height='40'>](mailto:chrismartinezdeveloper@gmail.com)
 
-# Development Stack
+# Development Stack 📚
 
 ![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
