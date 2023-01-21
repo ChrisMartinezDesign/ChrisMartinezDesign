@@ -1,4 +1,7 @@
 ### Hi there 👋
+### 
+### About Me
+### I am a Production/Graphic Designer working on transitioning my career to be a fulltime software developer, specializing in web developement
 
 <!--
 **ChrisMartinezDesign/ChrisMartinezDesign** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
