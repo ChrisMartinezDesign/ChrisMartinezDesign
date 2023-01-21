@@ -6,8 +6,6 @@ I am a Production/Graphic Designer working on transitioning my career to full-ti
 
 # Contact
 
-[<img src='https://raw.githubusercontent.com/username/reponame/branch/foldername/icon.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/chrismartinezdesign/)
-
 <a href=”https://www.linkedin.com/in/chrismartinezdesign/"><img align=”left” src=”https://raw.githubusercontent.com/username/reponame/branch/foldername/icon.svg" alt=”icon | LinkedIn” width=”21px”/></a>
 
 # Statistics
