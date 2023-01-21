@@ -2,9 +2,9 @@
 
 ### Development and Design
 
-I am a Production/Graphic Designer working on transitioning my career to full-time software development, specializing in web developement.
+I am a Production/Graphic Designer working on transitioning my career to full-time software development, specializing in web development.
 
-# Contact
+# Connect with Me 🤝
 
 [<img src='https://raw.githubusercontent.com/chrisMartinezDesign/chrisMartinezDesign/main/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/chrisMartinezDesign/) 
 
