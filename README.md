@@ -1,7 +1,6 @@
-### Hi there 👋
-### About Me
+### Hi there 👋, Chris Martinez
 I am a Production/Graphic Designer working on transitioning my career to be a fulltime software developer, specializing in web developement
-
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chrisMartinezDesign)](https://github.com/chrisMartinezDesign/github-readme-stats)
 <!--
 **ChrisMartinezDesign/ChrisMartinezDesign** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
