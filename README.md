@@ -8,6 +8,7 @@ I am a Production/Graphic Designer working on transitioning my career to full-ti
 
 [<img src='https://raw.githubusercontent.com/chrisMartinezDesign/chrisMartinezDesign/main/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/chrisMartinezDesign/) 
 [<img src='https://raw.githubusercontent.com/chrisMartinezDesign/chrisMartinezDesign/main/personal-logo.png' alt='website' height='40'>](https://chrismartinezportfolio.netlify.app/)
+[<img src='https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white' alt='website' height='40'>](mailto:chrismartinezdeveloper@gmail.com)
 
 # Development Stack
 
