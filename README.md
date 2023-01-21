@@ -7,7 +7,10 @@ I am a Production/Graphic Designer working on transitioning my career to full-ti
 # Connect with Me 🤝
 
 [<img src='https://raw.githubusercontent.com/chrisMartinezDesign/chrisMartinezDesign/main/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/chrisMartinezDesign/) 
-[<img src='https://raw.githubusercontent.com/chrisMartinezDesign/chrisMartinezDesign/main/personal-logo.png' alt='website' height='40'>](https://chrismartinezportfolio.netlify.app/)  
+[<img src='https://raw.githubusercontent.com/chrisMartinezDesign/chrisMartinezDesign/main/personal-logo.png' alt='website' height='40'>](https://chrismartinezportfolio.netlify.app/)
+<a href=”mailto:chrismartinezdeveloper@gmail.com">
+  <img align=”left” src="https://raw.githubusercontent.com/chrisMartinezDesign/chrisMartinezDesign/main/email.png" alt=”Yu Shi | LinkedIn” width=”21px”/>
+</a>
 
 # Development Stack
 
