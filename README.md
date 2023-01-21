@@ -10,7 +10,7 @@ I am a Production/Graphic Designer working on transitioning my career to full-ti
 
 # Development Stack
 
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=javascript&color=61DAFB)
 
 # Statistics 📈
 
