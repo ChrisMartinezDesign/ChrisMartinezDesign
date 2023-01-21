@@ -1,5 +1,4 @@
 ### Hi there 👋
-### 
 ### About Me
 ### I am a Production/Graphic Designer working on transitioning my career to be a fulltime software developer, specializing in web developement
 
