@@ -1,6 +1,6 @@
 ### Hi there 👋, Chris Martinez
 
-# Development and Design
+## Development and Design
 
 I am a Production/Graphic Designer working on transitioning my career to full-time software development, specializing in web developement.
 
