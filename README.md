@@ -1,10 +1,11 @@
-# Hi there, I'm Chris Martinez 👋
+## Hi there, I'm Chris Martinez 👋
 
 ### Development and Design
 
 I am a Production/Graphic Designer working on transitioning my career to full-time software development, specializing in web developement.
 
-# Statistics
+
+## Statistics
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chrisMartinezDesign)](https://github.com/anuraghazra/github-readme-stats)
 
