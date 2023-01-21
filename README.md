@@ -8,6 +8,8 @@ I am a Production/Graphic Designer working on transitioning my career to full-ti
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/chrismartinezdesign/)
 
+<a href=”https://www.linkedin.com/in/chrismartinezdesign/"><img align=”left” src=”https://raw.githubusercontent.com/username/reponame/branch/foldername/icon.svg" alt=”icon | LinkedIn” width=”21px”/></a>
+
 # Statistics
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chrisMartinezDesign)](https://github.com/anuraghazra/github-readme-stats)
