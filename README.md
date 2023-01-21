@@ -1,5 +1,6 @@
 ### Hi there 👋, Chris Martinez
-I am a Production/Graphic Designer working on transitioning my career to be a fulltime software developer, specializing in web developement
+Development and Design
+I am a Production/Graphic Designer working on transitioning my career to full-time software development, specializing in web developement.
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chrisMartinezDesign)](https://github.com/anuraghazra/github-readme-stats)
 
