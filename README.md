@@ -7,7 +7,7 @@ I am a Production/Graphic Designer working on transitioning my career to full-ti
 # Connect with Me 🤝
 
 [<img src='https://raw.githubusercontent.com/chrisMartinezDesign/chrisMartinezDesign/main/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/chrisMartinezDesign/) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://chrismartinezportfolio.netlify.app/)  
+[<img src='https://raw.githubusercontent.com/chrisMartinezDesign/chrisMartinezDesign/main/personal-logo.png' alt='website' height='40'>](https://chrismartinezportfolio.netlify.app/)  
 
 # Development Stack
 
