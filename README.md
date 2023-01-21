@@ -8,7 +8,7 @@ I am a Production/Graphic Designer working on transitioning my career to full-ti
 
 [<img src='https://raw.githubusercontent.com/chrisMartinezDesign/chrisMartinezDesign/main/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/chrisMartinezDesign/) 
 [<img src='https://raw.githubusercontent.com/chrisMartinezDesign/chrisMartinezDesign/main/personal-logo.png' alt='website' height='40'>](https://chrismartinezportfolio.netlify.app/)
-[<img src='https://raw.githubusercontent.com/chrisMartinezDesign/chrisMartinezDesign/main/email.png' alt='website' height='20'>](https://chrismartinezportfolio.netlify.app/)
+[<img src='https://raw.githubusercontent.com/chrisMartinezDesign/chrisMartinezDesign/main/email.png' alt='website' height='30' valign='center'>](https://chrismartinezportfolio.netlify.app/)
 
 # Development Stack
 
