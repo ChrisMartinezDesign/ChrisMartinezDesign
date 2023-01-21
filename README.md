@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Chris Martinez
+# Hi there 👋 I'm Chris Martinez
 
 ### Development and Design
 
