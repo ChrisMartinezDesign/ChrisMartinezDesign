@@ -23,4 +23,6 @@ I am a Production/Graphic Designer working on transitioning my career to full-ti
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/chrisMartinezDesign?cardType=level&theme=gotham&preferLogin=false)](https://git.io/awesome-stats-card)
 
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/chrisMartinezDesign?cardType=level&theme=gotham&showIcons=false&preferLogin=false)](https://git.io/awesome-stats-card)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisMartinezDesign&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
