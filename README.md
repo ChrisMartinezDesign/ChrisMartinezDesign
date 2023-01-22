@@ -6,9 +6,9 @@ I am a Production/Graphic Designer working on transitioning my career to full-ti
 
 # Connect with Me 🤝
 
-[<img src='https://raw.githubusercontent.com/chrisMartinezDesign/chrisMartinezDesign/main/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/chrisMartinezDesign/) 
+[<img src='https://raw.githubusercontent.com/chrisMartinezDesign/chrisMartinezDeveloper/main/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/chrisMartinezDesign/) 
 [<img src='https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white' alt='website' height='40'>](mailto:chrismartinezdeveloper@gmail.com)
-[<img src='https://raw.githubusercontent.com/chrisMartinezDesign/chrisMartinezDesign/main/personal-logo.png' alt='website' height='40'>](https://chrismartinezportfolio.netlify.app/)
+[<img src='https://raw.githubusercontent.com/chrisMartinezDesign/chrisMartinezDeveloper/main/personal-logo.png' alt='website' height='40'>](https://chrismartinezportfolio.netlify.app/)
 
 # Development Stack 📚
 
@@ -19,6 +19,6 @@ I am a Production/Graphic Designer working on transitioning my career to full-ti
 
 # Statistics 📈
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chrisMartinezDesign&theme=gotham)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chrisMartinezDeveloper&theme=gotham)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisMartinezDesign&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisMartinezDeveloper&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
