@@ -21,4 +21,6 @@ I am a Production/Graphic Designer working on transitioning my career to full-ti
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chrisMartinezDesign&theme=gotham)](https://git.io/streak-stats)
 
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/chrisMartinezDesign?cardType=level&theme=gotham&preferLogin=false)](https://git.io/awesome-stats-card)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisMartinezDesign&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
