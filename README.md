@@ -19,6 +19,6 @@ I am a Production/Graphic Designer working on transitioning my career to full-ti
 
 # Statistics 📈
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chrisMartinezDesign&theme=ayu-mirage&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chrisMartinezDesign&theme=gotham&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisMartinezDesign&layout=compact&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisMartinezDesign&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
