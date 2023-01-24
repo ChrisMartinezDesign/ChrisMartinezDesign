@@ -25,6 +25,6 @@ I am a Production/Graphic Designer working on transitioning my career to full-ti
 
 # Resume
 
-[Link to Resume](/chris-martinez-resume.pdf)
+[Link to My Resume](/chris-martinez-resume.pdf)
 
 <img src="/chris-martinez-resume.jpg" alt="Resume">
