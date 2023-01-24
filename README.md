@@ -22,3 +22,7 @@ I am a Production/Graphic Designer working on transitioning my career to full-ti
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chrisMartinezDeveloper&theme=gotham)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisMartinezDeveloper&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+
+# Resume
+
+
