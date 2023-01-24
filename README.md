@@ -2,7 +2,7 @@
 
 ### Development and Design
 
-I am a Production/Graphic Designer working on transitioning my career to full-time software development, specializing in web development.
+I am a production/graphic designer working on transitioning my career to full-time software development, specializing in web development.
 
 # Connect with Me 🤝
 
