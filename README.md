@@ -1,9 +1,5 @@
 # Hi there, I'm Chris Martinez 👋
 
-### Development and Design
-
-I am a production/graphic designer working on transitioning my career to full-time software development, specializing in web development.
-
 # Connect with Me 🤝
 
 [<img src='https://raw.githubusercontent.com/chrisMartinezDeveloper/chrisMartinezDeveloper/main/Assets/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/chrisMartinezDesign/) 
