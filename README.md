@@ -2,9 +2,9 @@
 
 ### Connect with Me 🤝
 
-[chrismartinezdeveloper@gmail.com](mailto:chrismartinezdeveloper@gmail.com)
+✉️ [chrismartinezdeveloper@gmail.com](mailto:chrismartinezdeveloper@gmail.com)
 
-[linkedin.com/in/chrismartinezdeveloper](https://www.linkedin.com/in/chrismartinezdeveloper/)
+💻 [linkedin.com/in/chrismartinezdeveloper](https://www.linkedin.com/in/chrismartinezdeveloper/)
 
 ### Development Stack 📚
 
