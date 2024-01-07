@@ -3,7 +3,8 @@
 # Connect with Me 🤝
 
 [Email](mailto:chrismartinezdeveloper@gmail.com)
-[LinkedIn]([https://chrismartinezportfolio.netlify.app/](https://www.linkedin.com/in/chrismartinezdeveloper/))
+
+[LinkedIn](https://chrismartinezportfolio.netlify.app/](https://www.linkedin.com/in/chrismartinezdeveloper/)
 
 # Development Stack 📚
 
