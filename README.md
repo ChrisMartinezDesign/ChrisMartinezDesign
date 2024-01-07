@@ -2,9 +2,8 @@
 
 # Connect with Me 🤝
 
-[<img src='https://raw.githubusercontent.com/chrisMartinezDeveloper/chrisMartinezDeveloper/main/Assets/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/chrisMartinezDeveloper/) 
-[<img src='https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white' alt='website' height='40'>](mailto:chrismartinezdeveloper@gmail.com)
-[<img src='https://raw.githubusercontent.com/chrisMartinezDeveloper/ChrisMartinezDeveloper/main/Assets/personal-logo.png' alt='website' height='40'>](https://chrismartinezportfolio.netlify.app/)
+[Email](mailto:chrismartinezdeveloper@gmail.com)
+[LinkedIn]([https://chrismartinezportfolio.netlify.app/](https://www.linkedin.com/in/chrismartinezdeveloper/))
 
 # Development Stack 📚
 
