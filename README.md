@@ -23,4 +23,4 @@
 
 [Link to My Resume PDF](/chris-martinez-resume.pdf)
 
-<img src="/chris-martinez-resume.jpg" alt="Resume">
+<img src="/chris-martinez-resume-photo.jpg" alt="Resume">
